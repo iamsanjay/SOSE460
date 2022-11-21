@@ -1,6 +1,6 @@
 # SOSE460
 
-Welcome to SOSE460. In this course we will learn about different Server side and vulneabilities. The idea is to demonstrate these vulnerabilities in real life sftwares such as Open source software. And then lean how to prevent it using OWASP prevention sheet.
+Welcome to SOSE460. In this course we will learn about different Server and client side vulneabilities. The idea is to demonstrate these vulnerabilities in real life softwares such as Open source. And then learn how to prevent it using OWASP prevention sheet.
 
 ## Chapter 1 XXE (XML eXternal Entity)
 - What is XXE?
