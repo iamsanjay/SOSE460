@@ -1,6 +1,11 @@
 # SOSE460
 
-Welcome to SOSE460. In this course we will learn about different Server and client side vulneabilities. The idea is to demonstrate these vulnerabilities in real life softwares such as Open source. And then learn how to prevent it using OWASP prevention sheet.
+Welcome to SOSE460. In this course we will learn about different Server and client side vulneabilities. The idea is to demonstrate these vulnerabilities in real life softwares such as Open source. And then learn how to prevent it using OWASP prevention sheet. Also, mostly application that I will be using for demonstration is going to be in Java. 
+
+## Prerequisite
+- Java
+- HTTP
+- Java Libraries
 
 ## Chapter 1 XXE (XML eXternal Entity)
 - [Part 1 Video](https://www.youtube.com/watch?v=zCgFxetuEwY) XML document, local/external DTDs, General and Parameterized Entities
