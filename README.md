@@ -5,7 +5,7 @@ Welcome to SOSE460. In this course we will learn about different Server and clie
 ## Prerequisite
 - Java
 - HTTP
-- Java Libraries
+- Know little bit about Java Open Source Libraries.
 
 ## Chapter 1 XXE (XML eXternal Entity)
 - [Part 1 Video](https://www.youtube.com/watch?v=zCgFxetuEwY) XML document, local/external DTDs, General and Parameterized Entities
@@ -13,6 +13,11 @@ Welcome to SOSE460. In this course we will learn about different Server and clie
 - Demonstration in Open source software
 - How to prevent it?
 - XXE Quiz
+
+## Chapter 2 Java Deserialization attack
+- What is Java serialization or Deserialization?
+### Readings
+- [On Jackson CVEs: Don’t Panic — Here is what you need to know](https://cowtowncoder.medium.com/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062)
 
 ## Chapter 2 File Upload Vulnerability
 - What is file upload vulnerability?
